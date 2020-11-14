@@ -1,0 +1,17 @@
+This message will be displayed on the screen:
+
++ + + + + + + + + + + + + + + + +
+Financial Analysis
++ + + + + + + + + + + + + + + + +
+
+
+Total Net Profits/Losses = $38382578
+
+Total Number of Months: 86
+
+The greatest increase was $1170593 during Feb-2012
+
+The greatest decrease was $-1196225 during Sep-2013
+
+The percentage change over the time period was -0.29%.
+
