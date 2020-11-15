@@ -1,5 +1,5 @@
 # PyBank
-This is a repo containing my solution for the second Python challenge.
+This is a repo containing my solution for the first Python challenge.
 + + + + + + + +
 In this challenge, I was tasked with creating a Python script for analyzing some financial records for a fictitious company. I was given a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses.
 
